@@ -1,0 +1,10 @@
+# Postgres local para desarrollo y pruebas: npm run db:start
+services:
+  postgres:
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_USER: turnero
+      POSTGRES_PASSWORD: turnero
+      POSTGRES_DB: turnero
+    ports:
+      - "55433:5432"
