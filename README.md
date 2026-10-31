@@ -136,15 +136,16 @@ The claim commits right away, so no transaction stays open while your handler ru
 
 ## Roadmap
 
-- [ ] `LISTEN/NOTIFY` so idle workers wake up instantly instead of polling
-- [ ] Recurring jobs (cron syntax)
-- [ ] Unique jobs with a deduplication key
-- [ ] Heartbeat to extend the lease of long jobs
-- [ ] Retry and delete dead jobs from the API
-- [ ] Web dashboard
-- [ ] CLI (`turnero stats`, `turnero retry`)
-- [ ] Benchmarks
-- [ ] Docs in Spanish
+- [ ] `LISTEN/NOTIFY` so idle workers wake up instantly instead of polling ([#1](https://github.com/eliasgdev/turnero/issues/1))
+- [ ] Recurring jobs (cron syntax) ([#2](https://github.com/eliasgdev/turnero/issues/2))
+- [ ] Unique jobs with a deduplication key ([#3](https://github.com/eliasgdev/turnero/issues/3))
+- [ ] Heartbeat to extend the lease of long jobs ([#4](https://github.com/eliasgdev/turnero/issues/4))
+- [ ] Retry and delete dead jobs from the API ([#5](https://github.com/eliasgdev/turnero/issues/5))
+- [ ] Web dashboard ([#6](https://github.com/eliasgdev/turnero/issues/6))
+- [ ] CLI (`turnero stats`, `turnero retry`) ([#7](https://github.com/eliasgdev/turnero/issues/7))
+- [ ] Benchmarks ([#8](https://github.com/eliasgdev/turnero/issues/8))
+- [ ] Docs in Spanish ([#9](https://github.com/eliasgdev/turnero/issues/9))
+- [ ] Publish to npm ([#10](https://github.com/eliasgdev/turnero/issues/10))
 
 ## Development
 
