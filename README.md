@@ -160,3 +160,9 @@ Tests run against a real Postgres, each on its own schema. Set `DATABASE_URL` to
 ## License
 
 [MIT](LICENSE) © Elias Gutiérrez
+
+---
+
+<a href="https://avirexis.com/?utm_source=github&utm_medium=readme&utm_campaign=turnero"><picture><source media="(prefers-color-scheme: dark)" srcset="https://avirexis.com/avx-logo-nav-white.png"><img src="https://avirexis.com/avx-logo-nav.png" alt="Avirexis" height="22"></picture></a>
+
+Built by [Avirexis](https://avirexis.com/?utm_source=github&utm_medium=readme&utm_campaign=turnero), business management software made in Colombia.
